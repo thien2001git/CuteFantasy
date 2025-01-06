@@ -1,0 +1,35 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+.vscode/
+.vs/
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JetBrains Rider project files
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Unity generated meta files
+*.meta
